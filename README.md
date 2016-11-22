@@ -1,6 +1,6 @@
 # DoubleBonus
 
-Code is tested in the environment Mac and Chrome.
+Code is tested in the Mac system and Chrome.
 
 Usage:
 
