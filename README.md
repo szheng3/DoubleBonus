@@ -1,4 +1,7 @@
 # DoubleBonus
+
+Code is tested in the environment Mac and Chrome.
+
 Usage:
 
 Open eclipse
